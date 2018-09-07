@@ -1,0 +1,2 @@
+# Скрипт будет выполняться каждые 15 минут.
+*/15 * * * * php f:\OSPanel\domains\yii2-lessons-v8\basic\yii user-log/clean
